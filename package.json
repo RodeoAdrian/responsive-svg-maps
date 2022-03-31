@@ -2,7 +2,7 @@
   "name": "responsive-svg",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rodeoadrian.github.io",
+  "homepage": "https://rodeoadrian.github.io/responsive-svg-maps/",
   "dependencies": {
     "@cutting/svg": "^4.31.9",
     "@testing-library/jest-dom": "^5.16.3",
