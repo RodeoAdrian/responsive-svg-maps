@@ -104,7 +104,7 @@ const SvgInline = (props) => {
             initialPositionX={-880}
             initialPositionY={-1000}
           >
-            <TransformComponent>
+            <TransformComponent wrapperStyle={{width: '100%', height: '100%'}}>
                <div id={props.idSecond} className="svg-map arena-map invisible" dangerouslySetInnerHTML={{ __html: svg2 }} onClick={handleClick}></div>
             </TransformComponent>
           </TransformWrapper>
