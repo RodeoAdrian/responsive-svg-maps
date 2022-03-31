@@ -1,0 +1,55 @@
+<svg viewBox="0 0 318 228" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="318" height="228" fill="#E5E5E5" />
+  <g id="map">
+    <rect x="0.5" y="0.5" width="317" height="227" fill="white" />
+    <g id="barns">
+      <g id="c">
+        <g id="stalls">
+          <rect id="c 1" x="50.5" y="185.5" width="21" height="21" fill="white" stroke="black" />
+          <rect id="c 2" x="75.5" y="185.5" width="21" height="21" fill="white" stroke="black" />
+          <rect id="c 3" x="100.5" y="185.5" width="21" height="21" fill="white" stroke="black" />
+          <rect id="c 4" x="125.5" y="185.5" width="21" height="21" fill="white" stroke="black" />
+          <rect id="c 5" x="150.5" y="185.5" width="21" height="21" fill="white" stroke="black" />
+          <rect id="c 6" x="175.5" y="185.5" width="21" height="21" fill="white" stroke="black" />
+          <rect id="c 7" x="200.5" y="185.5" width="21" height="21" fill="white" stroke="black" />
+          <rect id="c 8" x="225.5" y="185.5" width="21" height="21" fill="white" stroke="black" />
+          <rect id="c 9" x="250.5" y="185.5" width="21" height="21" fill="white" stroke="black" />
+          <rect id="c 10" x="275.5" y="185.5" width="21" height="21" fill="white" stroke="black" />
+        </g>
+        <rect id="label-c" x="25.5" y="185.5" width="21" height="21" fill="#E5E5E5" stroke="black" />
+      </g>
+      <g id="b">
+        <g id="stalls_2">
+          <rect id="b 1" x="50.5" y="51.5" width="21" height="21" fill="white" stroke="black" />
+          <rect id="b 2" x="75.5" y="51.5" width="21" height="21" fill="white" stroke="black" />
+          <rect id="b 3" x="100.5" y="51.5" width="21" height="21" fill="white" stroke="black" />
+          <rect id="b 4" x="125.5" y="51.5" width="21" height="21" fill="white" stroke="black" />
+          <rect id="b 5" x="150.5" y="51.5" width="21" height="21" fill="white" stroke="black" />
+          <rect id="b 6" x="175.5" y="51.5" width="21" height="21" fill="white" stroke="black" />
+          <rect id="b 7" x="200.5" y="51.5" width="21" height="21" fill="white" stroke="black" />
+          <rect id="b 8" x="225.5" y="51.5" width="21" height="21" fill="white" stroke="black" />
+          <rect id="b 9" x="250.5" y="51.5" width="21" height="21" fill="white" stroke="black" />
+          <rect id="b 10" x="275.5" y="51.5" width="21" height="21" fill="white" stroke="black" />
+        </g>
+        <rect id="label-b" x="25.5" y="51.5" width="21" height="21" fill="#E5E5E5" stroke="black" />
+      </g>
+      <g id="a">
+        <g id="stalls_3">
+          <rect id="a 1" x="50.5" y="24.5" width="21" height="21" fill="white" stroke="black" />
+          <rect id="a 2" x="75.5" y="24.5" width="21" height="21" fill="white" stroke="black" />
+          <rect id="a 3" x="100.5" y="24.5" width="21" height="21" fill="white" stroke="black" />
+          <rect id="a 4" x="125.5" y="24.5" width="21" height="21" fill="white" stroke="black" />
+          <rect id="a 5" x="150.5" y="24.5" width="21" height="21" fill="white" stroke="black" />
+          <rect id="a 6" x="175.5" y="24.5" width="21" height="21" fill="white" stroke="black" />
+          <rect id="a 7" x="200.5" y="24.5" width="21" height="21" fill="white" stroke="black" />
+          <rect id="a 8" x="225.5" y="24.5" width="21" height="21" fill="white" stroke="black" />
+          <rect id="a 9" x="250.5" y="24.5" width="21" height="21" fill="white" stroke="black" />
+          <rect id="a 10" x="275.5" y="24.5" width="21" height="21" fill="white" stroke="black" />
+        </g>
+        <rect id="label-a" x="25.5" y="24.5" width="21" height="21" fill="#E5E5E5" stroke="black" />
+      </g>
+    </g>
+    <rect id="stall office" x="26.5" y="94.5" width="119" height="69" fill="#E5E5E5" stroke="black" />
+    <rect x="0.5" y="0.5" width="317" height="227" stroke="black" />
+  </g>
+</svg>
