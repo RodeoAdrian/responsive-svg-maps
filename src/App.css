@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+
+.img-container {
+  border: 10px solid #b6bdc3;
+  width: 100%;
+  background: #fff;
+  margin: 0 auto;
+
+  /* Required to make image fluid in IE */
+
+  img:not(.png) {
+    width: 100%;
+  }
+}
+
+object {
+  width: 100%;
+}
