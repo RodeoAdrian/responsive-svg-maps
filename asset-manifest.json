@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/responsive-svg-maps/static/css/main.d5c3be86.css",
+    "main.js": "/responsive-svg-maps/static/js/main.83c63d58.js",
+    "static/js/787.499122e3.chunk.js": "/responsive-svg-maps/static/js/787.499122e3.chunk.js",
+    "static/media/arena.svg": "/responsive-svg-maps/static/media/arena.e759d1bb201be43b1ef74c3d74a06fa2.svg",
+    "static/media/simple-map.svg": "/responsive-svg-maps/static/media/simple-map.4fa6f52c54b02b810b39a4bebf43582f.svg",
+    "static/media/logo.svg": "/responsive-svg-maps/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/uvalde.svg": "/responsive-svg-maps/static/media/uvalde.4921e7a1824acf2bcd98cf6924e79d45.svg",
+    "index.html": "/responsive-svg-maps/index.html",
+    "main.d5c3be86.css.map": "/responsive-svg-maps/static/css/main.d5c3be86.css.map",
+    "main.83c63d58.js.map": "/responsive-svg-maps/static/js/main.83c63d58.js.map",
+    "787.499122e3.chunk.js.map": "/responsive-svg-maps/static/js/787.499122e3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5c3be86.css",
+    "static/js/main.83c63d58.js"
+  ]
+}
